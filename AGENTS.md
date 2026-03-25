@@ -39,6 +39,11 @@ Project-specific AGENTS.md files may add to these rules but must not contradict 
 
 ---
 
+## Repository Defaults
+
+- Always create repos as **private** by default
+- Only make public when explicitly requested
+
 ## Git Conventions
 
 - Branch naming: `feat/description`, `fix/description`, `chore/description`
